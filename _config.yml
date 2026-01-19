@@ -1,0 +1,19 @@
+remote_theme: "mmistakes/minimal-mistakes"
+#################
+
+title: "Sanbaj Ansari"
+subtitle: "Data Science & Machine Learning"
+name: "Sanbaj Ansari"
+description: "Data Science, Machine Learning, and Intelligent Systems"
+################
+
+author:
+  name: "Sanbaj Ansari"
+  bio: "Graduate CS student focused on Data Science, Machine Learning, and AI"
+  avatar: "/assets/images/profile.jpg"
+###############
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
