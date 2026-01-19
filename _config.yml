@@ -28,4 +28,4 @@ author:
 collections:
   projects:
     output: true
-    permalink: /projects/:path/
+    # permalink: /projects/:path/
