@@ -1,4 +1,16 @@
 remote_theme: "mmistakes/minimal-mistakes"
+
+####
+# GitHub Pages compatibility fix
+minimal_mistakes_skin: "default"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+
 #################
 
 title: "Sanbaj Ansari"
